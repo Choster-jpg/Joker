@@ -35,7 +35,7 @@ Joker is a Full Stack Chatting App. Uses Socket.io for real time communication a
 ![image](https://user-images.githubusercontent.com/63809252/188878835-2ec1c5a5-5c55-4958-a85b-2034006e196b.png)
 ![image](https://user-images.githubusercontent.com/63809252/188878935-b467170c-f5b8-4765-b7ed-e6fe7d125c9b.png)
 
-### Real time chatting with typing indiators
+### Real time chatting with typing indicators
 ![image](https://user-images.githubusercontent.com/63809252/188881137-f153c78a-ab42-4bdb-a8a5-9e810d109749.png)
 
 ### Adding, sharing and rating users's jokes
